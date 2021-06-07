@@ -13,11 +13,11 @@ const pages = () => {
     <Fragment>
       <Home />
       <ImmServices />
-      {/*<Trainings />
+      <Trainings />
       <Support />
       <Blog />
       <About />
-      <ContactUs /> */}
+      <ContactUs />
     </Fragment>
   );
 };
